@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/server20110251/databases/ABC_Supermarket",
+      "type": "mssql.azure",
+      "connectionId": "server20110251.database.windows.net",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
